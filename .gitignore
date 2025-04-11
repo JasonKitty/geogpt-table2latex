@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs & temp files
+*.log
+*.tmp
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# VSCode / PyCharm settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache
+*.cache
+.cache/
+
+# Others
+*.ckpt
+*.onnx
+*.h5
+*.pth
+
+table2latex_web_demo/static
+weights/
+table2latex_web_demo/static
+LICENSE
+
+

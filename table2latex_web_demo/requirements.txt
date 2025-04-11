@@ -1,0 +1,6 @@
+flask
+openai
+Pillow
+pdf2image
+numpy
+opencv-python-headless
